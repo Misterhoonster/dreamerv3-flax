@@ -1,0 +1,10 @@
+scipy
+jax
+jaxlib
+flax
+optax
+distrax
+gym
+crafter
+wandb
+gymnax
